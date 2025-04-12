@@ -31,3 +31,4 @@ def home(request):
     return render(request, 'home.html')
 
 print("added print statment for testing purpose")
+print("welcome to the django git")
