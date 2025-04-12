@@ -29,3 +29,5 @@ def home(request):
     bal = 0
 
     return render(request, 'home.html')
+
+print("added print statment for testing purpose")
